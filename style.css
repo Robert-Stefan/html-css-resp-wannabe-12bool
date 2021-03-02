@@ -5,20 +5,22 @@
   padding: 20px;
 }
 
-#lezioni:not([h1]) {
+#lezioni {
   text-align: center;
-  line-height: 30px;
-  font-size: 18px;
+  line-height: 28px;
+  font-size: 20px;
 }
 
 #steps {
   text-align: center;
-  line-height: 30px;
+  line-height: 28px;
+  font-size: 20px;
 }
 
 #why {
   text-align: center;
-  line-height: 30px;
+  line-height: 28px;
+  font-size: 20px;
 }
 
 #why .col-xs-12 img {
