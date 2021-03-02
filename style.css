@@ -1,0 +1,36 @@
+.col-xs-12 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+#lezioni:not([h1]) {
+  text-align: center;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+#steps {
+  text-align: center;
+  line-height: 30px;
+}
+
+#why {
+  text-align: center;
+  line-height: 30px;
+}
+
+#why .col-xs-12 img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px
+}
+
+.container.grey {
+  background-color: #f9f9f9;
+}
+
+img {
+  height: 160px;
+}
